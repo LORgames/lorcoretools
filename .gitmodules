@@ -1,0 +1,6 @@
+[submodule "premake/modules/winrt"]
+	path = premake/modules/winrt
+	url = https://github.com/LORgames/premake-winrt.git
+[submodule "premake/modules/android"]
+	path = premake/modules/android
+	url = https://github.com/LORgames/premake-android.git
