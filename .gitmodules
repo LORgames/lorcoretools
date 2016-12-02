@@ -4,3 +4,6 @@
 [submodule "premake/modules/android"]
 	path = premake/modules/android
 	url = https://github.com/LORgames/premake-android.git
+[submodule "premake/modules/vslinux"]
+	path = premake/modules/vslinux
+	url = https://github.com/LORgames/premake-vslinux.git
